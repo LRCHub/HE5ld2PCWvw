@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "FOREVER LOST",
+  "base_artist": "MYTH & ROID",
+  "createdAt": "2026-02-11T04:40:07.327938Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forever Lost",
+      "artist": "The Magic Numbers",
+      "has_synced": true,
+      "path": "select/01_Forever_Lost_The_Magic_Numbers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Forever Lost",
+      "artist": "Sentenced",
+      "has_synced": true,
+      "path": "select/02_Forever_Lost_Sentenced.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FOREVER LOST",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/03_FOREVER_LOST_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forever Lost",
+      "artist": "Magic Numbers",
+      "has_synced": true,
+      "path": "select/04_Forever_Lost_Magic_Numbers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forever Lost",
+      "artist": "Conjure One",
+      "has_synced": false,
+      "path": "select/05_Forever_Lost_Conjure_One.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forever Lost",
+      "artist": "Conjure One",
+      "has_synced": true,
+      "path": "select/06_Forever_Lost_Conjure_One.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Forever Lost",
+      "artist": "Lord of the Lost",
+      "has_synced": true,
+      "path": "select/07_Forever_Lost_Lord_of_the_Lost.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forever Lost",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/08_Forever_Lost_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forever Lost",
+      "artist": "The Magic Numbers",
+      "has_synced": true,
+      "path": "select/09_Forever_Lost_The_Magic_Numbers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Go to Hell (Forever Lost mix)",
+      "artist": "Blutengel",
+      "has_synced": false,
+      "path": "select/10_Go_to_Hell_(Forever_Lost_mix)_Blutengel.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Go To Hell (Forever Lost Remix)",
+      "artist": "Blutengel",
+      "has_synced": false,
+      "path": "select/11_Go_To_Hell_(Forever_Lost_Remix)_Blutengel.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Forever Lost",
+      "artist": "MYTH & ROID",
+      "has_synced": false,
+      "path": "select/pl_01_Forever_Lost_MYTH_&_ROID.txt"
+    }
+  ]
+}
